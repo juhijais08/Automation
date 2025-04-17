@@ -1,0 +1,5 @@
+1. to check whether the promo code can be applied at the checkout page without login into the user account or not,
+2. to check whether we can apply the promo code more than once or not while placing orders more than once on a particular day,
+3. to check if the promo code for example NYKAA20 is expired and can be still used or not to place an order,
+4. to check if parallel sessions of the same user are logged in from two different devices like laptop and mobile and placing orders for two different products using the same promo code,
+5. to check if while applying the promo code at the checkout we disconnect the internet after 1 second hitting at COD payment the promo code application with the order placed is successful or not 

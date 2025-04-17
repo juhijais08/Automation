@@ -1,0 +1,9 @@
+1.To compile Java program with package statement javac -d . Hello.java
+
+2.To run a java program with package statement java com.facebook.login.friends.Hello
+
+3.The first statement in a java source code should be package statement
+
+4.At most 1 package statement is allowed in a java source file
+
+5. Hierarchy package (Maximum 1)--> Import statement (no limit )--> class (no limit)--> 

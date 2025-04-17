@@ -1,0 +1,9 @@
+Select emp.e_id,emp.e_name
+from emp
+LEFT JOIN dept1
+on emp.e_deptNo=dept1.d_deptNo
+UNION
+Select emp.e_id,emp.e_name
+from emp
+RIGHT JOIN dept1
+on emp.e_deptNo=dept1.d_deptNo;

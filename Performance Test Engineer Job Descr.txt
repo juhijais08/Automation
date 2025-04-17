@@ -1,0 +1,30 @@
+Performance Test Engineer Job Description:
+Skills and Experience Requirement:
+At least 3 to 8 years of experience in Performance Testing and Engineering activities
+Must have knowledge on Performance Testing Life CycleSignificant experience in performance test planning, workload modelling, capacity planning, scalability and stability testing, and stress testing of small to large scale applications
+Extensive experience in creating Jmeter script and designing scenarios.
+Expertise in performance test scripting, execution, monitoring, analysis & reporting.
+Expertise in developing dynamic performance testing suites using any of these performance test tools like Apache JMeter (Mandatory), Blazemeter, Performance Centre, Microfocus LoadRunner (Added Advantage).Ability to work within Pace team collaborating with Product owners/business analysts and developers to understand requirements.
+Working experience in an Agile and/or Pace delivery framework.
+Extensive experience in any one of APM tools like AppDynamics, Dynatrace & Splunk.
+Good to have knowledge on using Atlassian JIRA & Confluence.Good to have understanding about the AWS cloud and concepts.
+Your tasks & responsibilities includes but not limited to:Own delivery of performance test phase from specification to design, prep, execution through to test closure
+Provide accurate estimates for delivery of performance test tasks scripting, execution, analysis and reporting.
+Create reusable performance test scripts and assets using toolsets including Apache Jmeter.
+Maintain existing and new performance test scripts to make sure scripts are reusable for release activities.
+Create performance test data via NFT scripts and maintaining test data repo.
+Develop and execute component and system level performance tests
+Analyse performance results to identify bottlenecks and optimisations
+Work with distributed team resources, developers, DBAs, SMEs to analyse, identify and resolve performance test issues.
+Create detailed performance test reports to appropriate levels, depending on audience (eg. Interim test reports, Test Summary Report)
+Analyse metrics and trends to highlight performance opportunities for improvements
+Work with delivery stakeholders to define Performance test & engineering requirements, scope, workload models & recommended testing frameworks
+Assist stakeholders with identifying and understanding performance risks and recommending mitigation strategies and approaches.
+Effectively manages risks, issues, dependencies, and stakeholders throughout the delivery
+Setting up monitoring and dashboards or ability to monitor using any one of the APM tools like Appdynamics, dynaTrace and data management tools like Grafana, Splunk and other cloud native tools
+Excellent verbal and written communication skills
+Participates in and contributes to all Pace team activities and events
+Having automation and engineering mind-set and up-skill team members in the domain of testing and continuous integration capabilities
+Integrate performance and quality engineering frameworks with CI/CD, infrastructure as code, DevOps, automation, and various cloud technologies
+Undertake any other tasks assigned by your lead/manager that you have the capability to perform safely in line with relevant internal Group policies and external regulatory requirements.
+Adhere to the Code of Conduct. The Code of Conduct sets the standards of behavior, actions and decisions we expect from our people.
